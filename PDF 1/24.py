@@ -1,4 +1,4 @@
-segundos = int(input("Ingrese un una cantidad en segundos: "))
+segundos = int(input("Ingrese una cantidad en segundos: "))
 if len(str(segundos)) <=5 and (segundos)>0:
     horas = 0
     minutos = 0
